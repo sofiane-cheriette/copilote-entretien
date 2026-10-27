@@ -1,10 +1,8 @@
-import sys
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
-from pathlib import Path
 
 from PySide6.QtWidgets import (
-    QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
+    QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
     QLabel, QComboBox, QTextEdit, QLineEdit, QPushButton, QProgressBar,
     QFrame, QCheckBox, QSizePolicy,
 )

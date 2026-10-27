@@ -1,5 +1,4 @@
 import numpy as np
-import pytest
 from copilote.audio import Segmenter
 
 RATE = 16000

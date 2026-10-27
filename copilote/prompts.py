@@ -5,7 +5,7 @@ def _lire(chemin, ignorer_diese: bool = False) -> str:
     try:
         lignes = chemin.read_text(encoding="utf-8").splitlines()
         if ignorer_diese:
-            lignes = [l for l in lignes if not l.startswith("#")]
+            lignes = [line for line in lignes if not line.startswith("#")]
         return "\n".join(lignes).strip()
     except FileNotFoundError:
         return ""
