@@ -1,0 +1,36 @@
+# Votre CV en texte brut.
+# Renommez ce fichier en cv.txt avant de lancer le programme.
+# L'IA utilise ce fichier comme seule source de vérité sur votre parcours.
+# Conseil : retirez vos coordonnées (téléphone, email) — l'IA n'en a pas besoin.
+
+PRÉNOM NOM
+Intitulé de poste recherché – Type de contrat
+· linkedin.com/in/votre-profil · github.com/votre-username · Permis B
+
+PROFIL
+[Décrivez votre profil en 2-3 phrases : formation, compétences clés, objectif.]
+
+COMPÉTENCES
+- Développement : [langages, frameworks]
+- Données : [outils data]
+- DevOps & CI/CD : [outils]
+- Systèmes : [OS, outils]
+- Langues : [langues et niveaux]
+
+EXPÉRIENCES
+[Entreprise] – [Poste] · [Ville] · [Dates]
+- [Mission 1]
+- [Mission 2]
+- [Mission 3]
+
+PROJETS PERSONNELS
+- [Projet 1] : [description courte]
+- [Projet 2] : [description courte]
+
+FORMATIONS
+- [Diplôme], [École] · [Dates]
+- [Certification] : [organisme]
+
+LOISIRS
+- [Loisir 1]
+- [Loisir 2]

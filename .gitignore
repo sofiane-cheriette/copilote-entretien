@@ -1,0 +1,29 @@
+# Secrets et données personnelles
+.env
+cv.txt
+contexte.txt
+CLAUDE.md
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Build
+build/
+dist/
+*.spec
+
+# Sessions d'entretien
+sessions/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+
+# Divers
+.pytest_cache/
+

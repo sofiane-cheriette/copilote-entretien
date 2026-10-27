@@ -1,0 +1,15 @@
+# Les lignes qui commencent par # sont ignorées par le programme.
+# Renommez ce fichier en contexte.txt et remplissez-le avant l'entretien.
+
+Entretien : [type d'entretien — alternance / CDI / stage], [date], [heure].
+Recruteur : [prénom nom], [poste], [entreprise], [ville].
+Sujets annoncés : [sujets que le recruteur a mentionnés à l'avance].
+
+Entreprise : [description de l'entreprise — activité, taille, stack technique si connue].
+
+Mon projet : [votre projet professionnel en lien avec ce poste].
+Pistes utiles pour eux : [compétences ou sujets à valoriser selon l'offre].
+
+# Optionnel : informations personnelles à citer si pertinent
+# Engagement associatif : [...]
+# Autre : [...]
